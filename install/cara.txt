@@ -1,0 +1,17 @@
+##############################
+#####  CARA CONFIGURASI  #####
+##############################
+
+[ 1 ] tentukan base_url()
+ada di application/config/config.php baris (26)
+
+[ 2 ] configurasi database
+- buat database
+- import file database [ application/install/wilayah.sql ]
+jangan lupa samakan antara nama database dengan yang ada difile database.php
+ada di application/config/database.php baris (81)
+
+
+....SEMOGA BERMANFAAT.... 
+
+wa : 082321422408 
